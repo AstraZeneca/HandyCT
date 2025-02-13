@@ -2,9 +2,12 @@
 
 ### :alien: DISCAILMER :alien:
 
+* Clone/Fork at your own risk, Astrazeneca and/or project owner is not responsible for any actions, plesae follow license APACHE 2.0 Guidelines.
+
+### :clipboard: Useful Tips :clipboard:
+
 1. This project is still under development with low maturity level.
 2. This project is not tested but act as prototype.
-3. Clone/Fork at your own risk, AZ is not responsible for any actions.
 4. Use your personal CDISC API Key to run this project.
 5. Please ensure to download R packages listed in global.R
 
