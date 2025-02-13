@@ -11,7 +11,7 @@
 1. Use your personal CDISC API Key to run this project.
 2. Please ensure to download R packages listed in global.R inorder to run this application.
 
-### :grey_question: Problem Statment :question:
+### :question: Problem Statment :question:
 
 * Extracting/reviewing information about control terminologies requires an extra efforts with conventional methods such as download excel/pdf CT files, and search the specific control terminologies is not very   
   efficient method.
