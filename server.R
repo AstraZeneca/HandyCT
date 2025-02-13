@@ -27,7 +27,7 @@ shinyServer(function(session, input, output){
   
   
   reac03 <- reactive({
-    data_frame <- GET(url = paste0("https://api.library.cdisc.org/api",reac02()$href), add_headers("api-key" = "28b0e2189c664210870072543981265b"))
+    data_frame <- GET(url = paste0("https://api.library.cdisc.org/api",reac02()$href), add_headers("api-key" = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"))
     data_frame <-content(data_frame,"text",encoding = "UTF-8")
     data_frame <-as.data.frame(fromJSON(data_frame, flatten = TRUE))
   })
