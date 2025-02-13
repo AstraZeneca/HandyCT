@@ -1,6 +1,6 @@
 # HandyCT
 
-### :alien: DISCAILMER :alien:
+### :warning: DISCAILMER :warning:
 
 * Clone/Fork at your own risk, Astrazeneca and/or project owner is not responsible for any actions, plesae follow license APACHE 2.0 Guidelines.
 *  This project is still under development with low maturity level and not tested (validated).
