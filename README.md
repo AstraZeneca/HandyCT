@@ -1,20 +1,22 @@
 # HandyCT
+##### Contact Person/maintain by : parth.shah1@astrazeneca.com
 
 ### :warning: DISCAILMER :warning:
 
-* Clone/Fork at your own risk, Astrazeneca and/or project owner is not responsible for any actions, plesae follow license APACHE 2.0 Guidelines.
-*  This project is still under development with low maturity level and not tested (validated).
-*  This project is currently act as prototype.
+*  Fork this repo at your own risk, Astrazeneca is not responsible for ANY actions, plesae follow license APACHE 2.0 Guidelines.
+*  This project is still under development with maturity level is ZERO (0) and unvalidated and/or not tested.
+*  This project is currently act as prototype and can work as LOOK UP TOOL Only.
 
 ### :clipboard: Useful Tips :clipboard:
 
-1. Use your personal CDISC API Key to run this project.
-2. Please ensure to download R packages listed in global.R inorder to run this application.
-
+* Use your personal CDISC API Key to run this project.
+* Apply CDISC API  : [Click Here](https://www.cdisc.org/cdisc-library/api-documentation)
+* Please ensure to download required R packages listed in global.R inorder to run this application.
+  
 ### :question: Problem Statment :question:
 
-* Extracting/reviewing information about control terminologies requires an extra efforts with conventional methods such as download excel/pdf CT files, and search the specific control terminologies is not very   
-  efficient method.
+* Extracting/reviewing information about control terminologies requires an extra efforts with conventional methods such as
+  download excel/pdf CT files, and search the specific control terminologies is not very efficient method.
 * Mainitaining multiple control terminologies with various version and at different published dates for each standards, can be complex and challenging for sponsors.
 * Creating a single consolidated excel/pdf file for multiversion, multistandards control terminologies can be challenging with data sourcing, consolidating, distributing and maintaining each quarter for 
    sponsors.
@@ -23,7 +25,7 @@
 ### :smiley: Solution :smiley:
 
 * Integrating CDISC API with R Shiny webframe work, above mentioned problems can be resolved using point and click web application where user can easily access control terminologies
-  with limited steps and a very   little effort. This morden way to access information comes with high efficiency overall. This also resolve problem for sponsors as it is a single place for combining and 
+  with limited steps and a very little effort. This morden way to access information comes with high efficiency overall. This also resolve problem for sponsors as it is a single place for combining and 
   distributing control terminologies information for end users. This solution is highly scalable where multiple standards and products can be added such SDTM and ADaM variables based on data avaibility.
 
 ### :crystal_ball: Objective :crystal_ball:
@@ -45,11 +47,11 @@
 * Create CRUD opertation application for spec generation.
 * Upload data and cross verify control terminologies etc.
 
-### :collision: Risk and Challenges :collision: 
+### :collision: Risk/limitations :collision: 
 
 * Highly reliable on CDISC API, if any event CDISC API not able to produce result it might not reflect information (Medium Risk)
 * CDISC API architecture modifies, which usually not happen often. (Low Risk)
-* Serving to wider audiance may need good bandwith and server space.
+* Serving to wider audiance may need good bandwith and server space (Limitations)
 
 ### :telescope: Working Prototype :telescope:
 
