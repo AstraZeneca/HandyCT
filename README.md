@@ -30,7 +30,7 @@
 
 ### :crystal_ball: Objective :crystal_ball:
 
-* Innovation and simplicity is primary objective of this project where control terminologies can be access with limited effors and with out downloding excel/pdf etc. repeatatively.
+* Innovation and simplicity is primary objective of this project where control terminologies can be access with limited efforts and with out downloding excel/pdf etc. repeatatively.
 
 ### :sparkles: Current Benefits :sparkles:
 
